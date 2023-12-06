@@ -1,4 +1,4 @@
-# Maven tutorial
+# Maven definition
 
 Maven is an open-source automation tool for Java that helps to manage dependencies and task runner. In other words, he automates the use of Java dependencies and projects compilation. 
 </br>
