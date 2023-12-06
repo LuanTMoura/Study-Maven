@@ -7,6 +7,6 @@
 
  # Selecione o idioma | Select Language
 
-[> Português-Brasil 🟢🟡]()
+[> Português-Brasil 🟢🟡](https://github.com/LuanTMoura/Study-Maven/blob/main/README%20PT-BR.md)
 
-[> English 🔵🔴⚪]()
+[> English 🔵🔴⚪](https://github.com/LuanTMoura/Study-Maven/blob/main/README%20EN.md)
