@@ -1,4 +1,4 @@
-# Study-Maven
+# Estudos de Maven
  Nesse repositório busco anexar conteúdos que aprendi sobre Maven.
  Todo conteúdo que for anotado estára no arquivo do tipo Markdown [nesse link](https://github.com/LuanTMoura/Study-Maven/blob/main/Maven%20Study%20Notes.md). Por fim, todos os arquivos de apoio e usados para exemplo das fontes de aprendizagem se encontrarão no repositório no qual você está lendo esse texto.
 
